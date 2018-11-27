@@ -1,0 +1,24 @@
+1. git init
+2. git status
+3. git add.
+4. git commit -m "makes some changes".
+5. git status
+6. git checkout -b new_branch.
+7. git mv first.txt to second.txt.
+8. git status.
+9. git commit -am "adds some extra feature".
+10.git diff master.
+11.git log.
+12.git checkout master baranch.
+13.git log
+14.git merge new_branch.
+15.git log to checksum.
+
+16.git mv last.txt to first.txt
+17.git add .
+18.git checkout new_branch.
+19.git status
+20.git commit -m "adds new file"
+21.git checkout master branch.
+22.git merge new_branch.
+23.git log.
